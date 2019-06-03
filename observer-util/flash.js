@@ -6,7 +6,7 @@ const {
 
 const exec = require('child_process').exec;
 
-login(config.username, config.password)
+login(config.TP_LINK_USERNAME, config.TP_LINK_PASSWORD)
     .then((response) => {
         let tplink = response;
         tplink.getDeviceList().then(() => {
