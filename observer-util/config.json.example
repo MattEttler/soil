@@ -1,4 +1,4 @@
 {
-    "username": "TP_LINK_USERNAME",
-    "password": "TP_LINK_PASSWORD"
+    "username": "#{TP_LINK_USERNAME}#",
+    "password": "#{TP_LINK_PASSWORD}#"
 }
