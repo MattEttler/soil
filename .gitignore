@@ -2,3 +2,7 @@
 observer-util/node_modules/
 
 observer-util/config\.json
+
+flash_log\.txt
+
+upload_log\.txt
