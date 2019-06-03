@@ -1,4 +1,4 @@
 {
-    "username": "your tplink account email",
-    "password": "your tplink account password"
+    "username": "TP_LINK_USERNAME",
+    "password": "TP_LINK_PASSWORD"
 }
