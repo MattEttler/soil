@@ -1,0 +1,15 @@
+{
+  "name": "observer-util",
+  "version": "1.0.0",
+  "description": "",
+  "main": "flash.js",
+  "dependencies": {
+    "tplink-cloud-api": "^0.3.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
